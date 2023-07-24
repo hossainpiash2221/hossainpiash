@@ -1,2 +1,4 @@
 # Day 1
-# input/output/ pattern
+# input/output
+# pattern
+# prime
