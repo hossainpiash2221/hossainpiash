@@ -1,4 +1,4 @@
-# Day 1
+#Begining Level
 
 #input/output
 #prime
