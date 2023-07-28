@@ -1,12 +1,9 @@
 # Day 1
-### input/output
 
-### pattern
-
-###prime
-
-###nCr
-
-###pascal Triangle
+#input/output
+#prime
+#nCr
+#pascal Triangle
+#sorting algorithm
 
 
